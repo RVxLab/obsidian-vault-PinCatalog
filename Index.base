@@ -1,0 +1,42 @@
+filters:
+  and:
+    - file.ext != "base"
+    - file.folder != "_templates"
+    - file.folder != "_photos"
+properties:
+  file.name:
+    displayName: Name
+  note.socials:
+    displayName: Socials
+  note.artists:
+    displayName: Artists
+  note.source:
+    displayName: Store URL
+  note.set:
+    displayName: Set
+  note.store:
+    displayName: Store
+  note.date-obtained:
+    displayName: Obtained On
+views:
+  - type: table
+    name: Overview
+    order:
+      - file.name
+      - set
+      - tags
+      - date-obtained
+      - store
+      - source
+      - artists
+      - socials
+    sort:
+      - property: store
+        direction: DESC
+      - property: date-obtained
+        direction: ASC
+    columnSize:
+      note.set: 231
+      note.store: 134
+      note.source: 457
+      note.socials: 359

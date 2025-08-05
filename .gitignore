@@ -1,0 +1,7 @@
+# General
+*.bak
+.DS_Store
+
+# Obsidian
+.obsidian/plugins
+.obsidian/workspace.json
