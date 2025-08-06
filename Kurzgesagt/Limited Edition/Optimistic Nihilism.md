@@ -10,5 +10,5 @@ artists:
 socials:
   - https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q
 ---
->[!warning]
+>[!warning] Data Obtained is a Guess
 >Date Obtained field is a best guess. Due to a system error with the vendor that information is lost.
