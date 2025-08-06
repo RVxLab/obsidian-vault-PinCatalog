@@ -10,7 +10,7 @@ artists:
 socials:
 ---
 >[!warning] Data Obtained is a Guess
->Date Obtained field is a best guess. Due to a system error with the vendor that information is lost.
+>Date Obtained field is a best guess.
 
 >[!warning] Web Shop Link Missing
 >The pin has been superseded and the old page is gone.  

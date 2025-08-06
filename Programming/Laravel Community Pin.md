@@ -11,4 +11,4 @@ socials:
   - https://sjorso.com
 ---
 >[!warning] Data Obtained is a Guess
->Date Obtained field is a best guess. Due to a system error with the vendor that information is lost.
+>Date Obtained field is a best guess.
